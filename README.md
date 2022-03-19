@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Nomracer
 - 👀 I’m interested in software
 - 🌱 I’m currently learning basics
-- 💞️ I’m looking to collaborate on ...
 - 📫 @qurkanss on instagram
 
 <!---
