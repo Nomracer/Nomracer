@@ -1,7 +1,7 @@
 <h1 align="center">Gürkan (Nomracer) Şimşek</h1>
 
 <p align="center">
-  Unity developer.
+  Game Dev. 
 </p>
 
 <p align="center">
