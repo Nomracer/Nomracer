@@ -18,6 +18,7 @@
   <img src="https://img.shields.io/badge/horror-8B0000?style=for-the-badge" alt="Horror">
   <img src="https://img.shields.io/badge/windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
   <img src="https://img.shields.io/badge/~30%20min-2E2E2E?style=for-the-badge" alt="30 minutes">
+  <img src="https://img.shields.io/badge/VR%20port-in%20development-8B5CF6?style=for-the-badge" alt="VR port in development">
 </p>
 
 <a href="https://nomracer.itch.io/dead-frame">
@@ -27,6 +28,8 @@
 Psychological horror. You are a trainee in a Veyks encounter simulation. Survive four nights and get educated, because your life depends on it.
 
 Subtitles and remappable controls. Two months of development, shipped and playable right now.
+
+Currently porting it to VR.
 
 <br clear="all">
 
