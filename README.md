@@ -56,9 +56,3 @@ The build ships a diagnostic overlay with runtime A/B switches for chunking, job
 **Performance** &nbsp; Burst · Job System · Native Collections · Unity Profiler · Memory Profiler · Profile Analyzer<br>
 **Languages** &nbsp; C# · Java · JavaScript<br>
 **Platforms** &nbsp; Android (IL2CPP, ARM64, Vulkan and GLES3) · iOS (Metal)
-
-<br>
-
-<p align="center">
-  <a href="https://nomracer.itch.io/">itch.io</a>
-</p>
