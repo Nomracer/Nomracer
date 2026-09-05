@@ -1,7 +1,7 @@
 <h1 align="center">Gürkan (Nomracer) Şimşek</h1>
 
 <p align="center">
-  Unity developer. I care about what a game costs per frame on hardware people actually own.
+  Unity developer.
 </p>
 
 <p align="center">
