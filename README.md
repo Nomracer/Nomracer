@@ -27,7 +27,7 @@
 
 Psychological horror. You are a trainee in a Veyks encounter simulation. Survive four nights and get educated, because your life depends on it.
 
-Subtitles and remappable controls. Two months of development, shipped and playable right now.
+Two months of development, shipped and playable right now.
 
 Currently porting it to VR.
 
