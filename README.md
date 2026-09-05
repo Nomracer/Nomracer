@@ -59,22 +59,6 @@ The build ships a diagnostic overlay with runtime A/B switches for chunking, job
 
 <br>
 
-<div align="center">
-<pre>
-  ███                                     ███
-  ███ ●═════════════════════════════════● ███
-  ███  ╲                               ╱  ███
-  ███   ╲                             ╱   ███
-         ╲                           ╱
-    ◯━━━━━●━━━━━━━━━━━━━━━━━━━━━━━━━●━━━━━┓
-   ▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔ ┃
-                                          ╱╲
-                 1 1 0   k g
-</pre>
-</div>
-
-<br>
-
 <p align="center">
   <a href="https://nomracer.itch.io/">itch.io</a>
 </p>
